@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company = "Scaled Biolabs"
   company_url = "https://www.scaledbiolabs.com"
   location = "San Francisco, California, USA"
-  date_start = "2019-01-09"
+  date_start = "2016-11-01"
   date_end = ""
   description = """
 
