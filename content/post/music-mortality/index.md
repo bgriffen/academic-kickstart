@@ -1,5 +1,5 @@
 ---
-title: "Music &amp; Mortality"
+title: "Music and Mortality"
 subtitle: 'Is the 27-club a real phenomena?'
 summary: 
 authors:
