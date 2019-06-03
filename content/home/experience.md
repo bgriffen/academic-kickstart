@@ -50,14 +50,14 @@ Additional support in marketing, sales, legal and everything else that powers an
 
   Using computational physics to better understand galaxy evolution, non-linear structure formation, and the early Universe. 
 
-Areas include: 
+Areas include:  
 ► non-linear dynamics, radiative transfer and N-body computation  
 ► petascale computing and large scale analytics 
 ► predictive modeling of billions of N-dimensional data points  
 ► development of novel computational algorithms and analysis pipelines  
 ► [12 published scientific papers](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en), $200k in development grants awarded  
-► 10+ million CPU hours awarded on national Petascale supercomputing facilities  
-► Caterpillar Project leader (www.caterpillarproject.org @MIT)  
-► Illustris Project collaborator (www.illustris-project.org @Harvard)"""
+► 10+ million CPU hours awarded on national supercomputing facilities  
+► [Caterpillar Project](www.caterpillarproject.org) leader at MIT. 
+► (Illustris Project](www.illustris-project.org) collaborator at Harvard."""
 
 +++
