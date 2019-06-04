@@ -9,7 +9,7 @@ tags:
 - astronomy
 categories: []
 date: "2014-11-04T00:00:00Z"
-#lastmod: "2014-11-04T00:00:00Z"
+lastmod: "2014-11-04T00:00:00Z"
 featured: false
 draft: false
 ---

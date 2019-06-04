@@ -10,7 +10,7 @@ tags:
 - tools
 categories: []
 date: "2016-02-29T00:00:00Z"
-#lastmod: "2016-02-29T00:00:00Z"
+lastmod: "2016-02-29T00:00:00Z"
 featured: false
 draft: false
 ---
