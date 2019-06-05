@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "CTO &amp; co-founder"
-  company = "Scaled Biolabs"
+  company = "Scaled Biolabs Inc."
   company_url = "https://www.scaledbiolabs.com"
   location = "San Francisco, California, USA"
   date_start = "2016-11-01"
@@ -57,7 +57,7 @@ Areas include:
 ► development of novel computational algorithms and analysis pipelines  
 ► [12 published scientific papers](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en), $200k in development grants awarded  
 ► 10+ million CPU hours awarded on national supercomputing facilities  
-► [Caterpillar Project](www.caterpillarproject.org) leader at MIT. 
-► (Illustris Project](www.illustris-project.org) collaborator at Harvard."""
+► [Caterpillar Project](www.caterpillarproject.org) leader at MIT.  
+► [Illustris Project](www.illustris-project.org) collaborator at Harvard."""
 
 +++
