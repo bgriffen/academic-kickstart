@@ -21,10 +21,10 @@
   <span class="article-date">
     {{ $date := $page.Lastmod.Format site.Params.date_format }}
     {{ if eq $page.Type "publication" }}
-      {{ $date = $page.Date.Format (site.Params.publications.date_format | default "Jan 2, 2006") }}
+      {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January 2, 2006") }}
     {{ else }}
       {{ if ne $page.Params.Lastmod $page.Params.Date }}
-          {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
+          {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January 2, 2006") }}
       {{ end }}
     {{ end }}
     <time>{{ $date }}</time>
