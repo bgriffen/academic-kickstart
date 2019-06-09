@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/1611.00759.pdf
 url_code: ''
 url_dataset: 'https://docs.caterpillarproject.org'
 url_poster: ''
