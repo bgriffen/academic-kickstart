@@ -8,6 +8,7 @@ tags:
 - python
 - language
 - graphs
+- wikipedia
 categories: []
 date: "2014-01-19T00:00:00Z"
 lastmod: "2014-01-19T00:00:00Z"
