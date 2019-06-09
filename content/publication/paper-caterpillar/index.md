@@ -25,7 +25,8 @@ abstract: We present the largest number of Milky Way sized dark matter halos sim
 summary: We present the largest number of Milky Way sized dark matter halos simulated at very high mass ($\sim$\ $10^4$ \Msol/particle) and temporal resolution (5 Myrs/snapshot) done to date, quadrupling what is currently available in the literature.
 
 tags:
-- Source Themes
+- computational astrophysics
+- galaxy formation
 featured: false
 
 # links:

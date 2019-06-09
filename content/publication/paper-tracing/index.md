@@ -25,7 +25,9 @@ abstract: We use 30 high-resolution dark matter haloes of the Caterpillar simula
 summary: We use 30 high-resolution dark matter haloes of the Caterpillar simulation suite to probe the first stars and galaxies of Milky Way-mass systems. We quantify the environment of the high-z progenitors of the Milky Way and connect them to the properties of the host and satellites today.
 
 tags:
-- Source Themes
+- computational astrophysics
+- galaxy formation
+- first stars
 featured: false
 
 # links:

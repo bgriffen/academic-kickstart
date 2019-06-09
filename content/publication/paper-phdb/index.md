@@ -25,7 +25,9 @@ abstract: We present detailed radiative transfer simulations of the reionization
 summary: We present detailed radiative transfer simulations of the reionization of the Milky Way by metal-poor globular clusters. We identify potential metal-poor globular cluster candidates within the Aquarius simulation using dark matter halo velocity dispersions. We calculate the local ionization fields via a photon-conserving, three dimensional non-equilibrium chemistry code. The key feature of the model is that globular cluster formation is suppressed if the local gas is ionized. We assume that at these early times, the ionization field is dominated by the flux from metal-poor globular clusters. Our spatial treatment of the ionization field leads to drastically different numbers and spatial distributions when compared to models where globular cluster formation is simply truncated at early redshifts (z ̃ 13).
 
 tags:
-- Source Themes
+- computational astrophysics
+- globular clusters
+- reionization
 featured: false
 
 # links:
