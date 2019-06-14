@@ -57,7 +57,7 @@ Areas include:
 ► development of novel computational algorithms and analysis pipelines  
 ► [12 published scientific papers](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en), $200k in development grants awarded  
 ► 10+ million CPU hours awarded on national supercomputing facilities  
-► [Caterpillar Project](www.caterpillarproject.org) leader at MIT.  
-► [Illustris Project](www.illustris-project.org) collaborator at Harvard."""
+► The [Caterpillar Project](www.caterpillarproject.org) leader at MIT.  
+► A [Illustris Project](www.illustris-project.org) collaborator at Harvard."""
 
 +++
