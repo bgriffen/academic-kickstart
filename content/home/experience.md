@@ -52,7 +52,7 @@ Additional support in marketing, sales, legal and everything else that powers an
 
 Areas include:  
 ► non-linear dynamics, radiative transfer and N-body computation  
-► petascale computing and large scale analytics 
+► petascale computing and large scale analytics   
 ► predictive modeling of billions of N-dimensional data points  
 ► development of novel computational algorithms and analysis pipelines  
 ► [12 published scientific papers](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en), $200k in development grants awarded  
