@@ -14,7 +14,7 @@ role: CTO & co-founder
 
 # Organizations/Affiliations
 organizations:
-- name: Scaled Biolabs
+- name: Scaled Biolabs Inc.
   url: "https://www.scaledbiolabs.com"
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: Postdoctoral Research Fellow
-    institution: Massachusets Institute of Technology
+    institution: Massachusetts Institute of Technology
     year: 2016
   - course: PhD in Computational Astrophysics
     institution: University of Queensland
@@ -80,4 +80,4 @@ user_groups:
 
 Hi. I’m Brendan, a computational astrophysicist by training with core interests in biology, engineering and computer science based in San Francisco, California. I'm currently CTO and co-founder of [Scaled Biolabs](https://www.scaledbiolabs.com/), a data driven, full-stack biotechnology company focused on discovering and developing next generation cell therapies. 
 
-I have a number of other professional affiliations including being Project Leader of the [Caterpillar Project](https://www.caterpillarproject.org/), a large computational galaxy formation project at MIT. I am also a project collaborator on the [Illustris Project](http://www.illustris-project.org/) at Harvard. You can find a few of my musings in these areas on my project page or throughout my semi-active blog. 
+I have a number of other professional affiliations including being project leader of the [Caterpillar Project](https://www.caterpillarproject.org/), a large computational galaxy formation project at MIT. I am also a project collaborator on the [Illustris Project](http://www.illustris-project.org/) at Harvard. You can find a few of my musings in these areas on my project page or throughout my semi-active blog. 
