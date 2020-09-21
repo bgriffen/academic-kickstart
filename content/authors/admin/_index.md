@@ -16,8 +16,6 @@ role: CTO & co-founder
 organizations:
 - name: A Cardiovascular Startup (Stealth)
   url: ""
-- name: Scaled Biolabs Inc.
-  url: "https://www.scaledbiolabs.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Working at the intersection of computer science, engineering and biology.
