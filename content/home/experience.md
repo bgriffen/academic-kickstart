@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   title = "CTO &amp; co-founder"
   company = "A Cardiovascular Startup (Stealth)"
   location = "San Francisco, California, USA | Brisbane, Australia"
-  date_start = "2020-11-02"
+  date_start = "2020-02-11"
   date_end = ""
   description = """
 
@@ -36,7 +36,7 @@ Deploying the full force of computer science, robotics, bioengineering and data 
   company_url = "https://www.scaledbiolabs.com"
   location = "San Francisco, California, USA"
   date_start = "2016-11-01"
-  date_end = "2020-11-02"
+  date_end = "2020-02-11"
   description = """
 
 Working at the frontier of microfluidics, automation, and machine learning. Providing full-stack integration of hardware, wetware and software for high-throughput, high-detail biology.  
