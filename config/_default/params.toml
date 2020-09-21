@@ -12,10 +12,10 @@ day_night = false
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Computational astrophysicist by training with core interests in biology, engineering and computer science."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "brendangriffen"
@@ -52,13 +52,13 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "brendan.f.griffen@gmail.com"
 phone = ""
-address = "Scaled Biolabs &mdash; 953 Indiana Street, San Francisco, California, USA."
+address = "San Francisco, California, USA | Brisbane, Queensland Australia"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+appointment_url = "https://calendly.com/brendanfgriffen/15min"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
