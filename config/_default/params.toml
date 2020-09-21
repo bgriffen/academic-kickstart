@@ -12,7 +12,7 @@ day_night = false
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Computational astrophysicist by training with core interests in biology, engineering and computer science."
+description = "A computational astrophysicist by training with core interests in biology, engineering and computer science."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "avatar.jpg"
@@ -22,7 +22,7 @@ twitter = "brendangriffen"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+logo = "icon.png"
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
