@@ -82,9 +82,7 @@ user_groups:
 
 Hi. I’m Brendan, a computational astrophysicist by training with core interests in biology, engineering and computer science based between San Francisco, California & Brisbane, Australia. I'm deeply passionate about data driven decision making and using technology to elevate our understanding of where we came from, who we are, how we live and where we are going.
 
-I'm currently CTO and co-founder of a (soon to be announced) startup focused on reversing heart failure (https://www.scaledbiolabs.com/), deploying next generation systems at the intersection of computer science, robotics, bioengineering.
-
-Previously, I was CTO and co-founder of [Scaled Biolabs](https://www.scaledbiolabs.com/), a data driven, full-stack biotechnology company focused on discovering and developing next generation cell therapies. 
+I'm currently CTO and co-founder of a (soon to be announced) startup focused on reversing heart failure, deploying next generation systems at the intersection of computer science, robotics, bioengineering. Previously, I was CTO and co-founder of [Scaled Biolabs](https://www.scaledbiolabs.com/), a data driven, full-stack biotechnology company focused on discovering and developing next generation cell therapies (e.g. growing neurons for Parkinson's disease or engineered blood for fighting cancer).
 
 I have a number of other professional affiliations including being project leader of the [Caterpillar Project](https://www.caterpillarproject.org/), a large computational galaxy formation project at MIT. I am also a project collaborator on the [Illustris Project](http://www.illustris-project.org/) at Harvard. You can find a few of my musings in these areas on my project page or throughout my semi-active blog. 
 
