@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-Deploying the full force of computer science, robotics, bioengineering and data intelligence to reverse heart disease. 
+Deploying the full force of computer science, robotics, bioengineering and data intelligence to reverse heart failure. 
 """
 
 [[experience]]
