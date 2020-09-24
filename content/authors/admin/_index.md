@@ -85,5 +85,3 @@ I'm currently CTO and co-founder of a (soon to be announced) startup focused on 
 I am the Project Lead on the [Caterpillar Project](https://www.caterpillarproject.org/), a large computational galaxy formation suite at MIT focusing on the origin and evolution of the Milky Way. I am also a project collaborator on the more general galaxy formation project of [Illustris](http://www.illustris-project.org/) at Harvard. 
 
 You can find a few of my musings in these areas below on my (semi-)active blog. 
-
-*"Sail Forth- Steer for the deep waters only. Reckless O soul, exploring. I with thee and thou with me. For we are bound where mariner has not yet dared go. And we will risk the ship, ourselves, and all." - Leaves of Grass, Whitman.*
