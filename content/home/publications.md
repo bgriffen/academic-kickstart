@@ -8,14 +8,14 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
+subtitle = "Full list at [Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en)."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 5
   
   # Choose how many pages you would like to offset by
   offset = 0
