@@ -22,10 +22,10 @@ bio: Working at the intersection of computer science, engineering and biology.
 
 interests:
 - Bioinformatics
-- Computational Astrophysics
+- Astrophysics
 - Digital Humanities
+- Privacy & Security
 - National Parks
-- Intensity
 
 education:
   courses:
@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Hi. I’m Brendan, a computational astrophysicist by training with core interests in biology, engineering and computer science based between San Francisco, California & Brisbane, Australia. I'm deeply passionate about data driven decision making and using technology to elevate our understanding of where we came from, who we are, how we live and where we are going.
+Hi. I’m Brendan, a computational astrophysicist by training with core interests in biology, engineering and computer science based between San Francisco, California and Brisbane, Australia. I'm passionate about data driven decision making and using technology to elevate the human condition in three areas - how we live, where we come from and where we are going.
 
 I'm currently CTO and co-founder of a (soon to be announced) startup focused on reversing heart failure, deploying next generation *in silico* and *in vitro* systems at the intersection of computer science, robotics, bioengineering. 
 
