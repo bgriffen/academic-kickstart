@@ -82,7 +82,6 @@ Hi. I’m Brendan, a computational astrophysicist by training with core interest
 
 I'm currently CTO and co-founder of a (soon to be announced) startup focused on reversing heart failure, deploying complex *in silico* and *in vitro* systems at the intersection of computer science, robotics, tissue engineering, immunology and stem cell biology. 
 
-# Where we come from...
 I am Project Lead on the [Caterpillar Project](https://www.caterpillarproject.org/), a large computational galaxy formation campaign at MIT focussing on the origin and evolution of the Milky Way. I am also a project collaborator on the more general galaxy formation project of [Illustris](http://www.illustris-project.org/) at Harvard. 
 
 You can find a few of my musings in these areas below on my (semi-)active blog. 
