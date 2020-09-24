@@ -2,7 +2,7 @@
 title: "Discovery of drugs to treat cytokine storm-induced cardiac dysfunction using human cardiac organoids"
 authors:
 - admin
-- Mills, Richard J and Humphrey, Sean J and Fortuna, Patrick RJ and Quaife-Ryan, Gregory A and Mehdiabadi, Neda R and Devilee, Lynn and Voges, Holly K and Reynolds, Liam T and Krumeich, Sophie and Mathieson, Ellen and Griffen, Brendan and Titmarsh, Drew and Porrello, Enzo R and Smyth, Mark J and Engwerda, Christian R and MacDonald, Kelli PA and Bald, Tobias and James, David E and Hudson, James E
+- Mills, Richard J et al.
 date: "2020-08-23T00:00:00Z"
 doi: "10.1101/2020.08.23.258574"
 
