@@ -21,13 +21,22 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "CTO &amp; co-founder"
-  company = "A Cardiovascular Startup (Stealth)"
+  company = "Soon To Be Announced"
   location = "San Francisco, California, USA | Brisbane, Australia"
   date_start = "2020-02-11"
   date_end = ""
   description = """
 
-Deploying the full force of computer science, robotics, bioengineering and data intelligence to reverse heart failure. 
+Combining computer science, robotics, bioengineering and omics data to find molecules that reverse heart failure. 
+
+Areas include:  
+► computer vision, video microscopy, image prcessing, data wrangling
+► cloud tooling for designing and executing digital protocols  
+► distributed supervised and unsupervised machine learning models  
+► multi-dimensional data optimization, processing and statistical modeling  
+
+Additional support in marketing, accounting, sales, legal and everything else that powers an early stage company.
+
 """
 
 [[experience]]
@@ -39,16 +48,7 @@ Deploying the full force of computer science, robotics, bioengineering and data 
   date_end = "2020-02-11"
   description = """
 
-Working at the frontier of microfluidics, automation, and machine learning. Providing full-stack integration of hardware, wetware and software for high-throughput, high-detail biology.  
-
-Areas include:  
-► computer vision, image prcessing, data wrangling  
-► full stack tools for creating and executing digital protocols  
-► distributed supervised and unsupervised machine learning models  
-► multi-dimensional data optimization, processing and statistical modeling  
-► hardware automation including microfluidic integration
-
-Additional support in marketing, sales, legal and everything else that powers an early stage company (all heavily data driven). Graduate company of Indie Bio (batch 4), the world's largest biotech accelerator. """
+Deploying microfluidics, automation, and machine learning to develop next generation cell-based medicines. Providing full-stack integration of hardware, wetware and software for high-throughput, high-detail biology. Additional support in marketing, sales, legal and everything else that powers an early stage company. Graduate company of Indie Bio (Batch 4), the world's largest biotech accelerator. """
 
 [[experience]]
   title = "Postdoctoral Fellow"
