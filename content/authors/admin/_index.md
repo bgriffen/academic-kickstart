@@ -24,7 +24,9 @@ interests:
 - Bioinformatics
 - Astrophysics
 - Digital Humanities
-- Privacy & Security
+- AI & Machine Learning
+- Natural Language Processing
+- Digital Urban Environments
 - National Parks
 
 education:
@@ -78,8 +80,8 @@ user_groups:
 - Visitors
 ---
 
-Hi. I’m Brendan, a computational astrophysicist by training with core interests in biology, engineering and computer science based between San Francisco, California and Brisbane, Australia. I'm passionate about data driven decision making and using technology to better understand where we come from, how we live, and where we are going.
+Hi. I’m Brendan, a computational astrophysicist by training with core interests in biology, engineering and computer science based between San Francisco, California and Brisbane, Australia. I enjoy combining different technologies to solve challenging problems.
 
-I'm currently CTO and co-founder of a (soon to be announced) startup focused on reversing heart failure, deploying complex *in silico* and *in vitro* systems at the intersection of computer science, robotics, tissue engineering, immunology and stem cell biology. 
+I'm currently CTO and co-founder of a (soon to be announced) startup focused on reversing heart failure, deploying complex *in silico* and *in vitro* systems at the intersection of computer science, robotics, tissue engineering, immunology and stem cell biology. Stay tuned.
 
-I am the Project Lead on the [Caterpillar Project](https://www.caterpillarproject.org/), a large computational galaxy formation suite at MIT focusing on the origin and evolution of the Milky Way. I am also a project collaborator on the more general galaxy formation project of [Illustris](http://www.illustris-project.org/) at Harvard. 
+I'm also the Project Lead on the [Caterpillar Project](https://www.caterpillarproject.org/), a large computational galaxy formation suite at MIT focusing on the origin and evolution of the Milky Way. I am also a project collaborator on the more general galaxy formation project of [Illustris](http://www.illustris-project.org/) at the Center For Astrophysics at Harvard University.
