@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 Combining computer science, robotics, bioengineering and omics data to find molecules that reverse heart failure. 
 
 Areas include:  
-► computer vision, video microscopy, image prcessing, data wrangling
+► computer vision, video microscopy, image cytometry, data wrangling
 ► cloud tooling for designing and executing digital protocols  
 ► distributed supervised and unsupervised machine learning models  
 ► multi-dimensional data optimization, processing and statistical modeling  
