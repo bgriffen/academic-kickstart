@@ -21,19 +21,19 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "CTO &amp; co-founder"
-  company = "Soon To Be Announced"
+  company = "Dynomics Inc."
   location = "San Francisco, California, USA | Brisbane, Australia"
   date_start = "2020-02-11"
   date_end = ""
   description = """
 
-Combining computer science, robotics, bioengineering and omics data to find molecules that reverse heart failure. 
+Combining cardiac biology, computer science, robotics, bioengineering and omics data to find molecules that reverse heart failure. 
 
 Areas include:  
-► computer vision, video microscopy, image cytometry, data wrangling  
-► cloud tooling for designing and executing digital protocols  
+► computer vision, video microscopy, image cytometry, signal processing
 ► distributed supervised and unsupervised machine learning models  
 ► multi-dimensional data optimization, processing and statistical modeling  
+► cloud based analysis and discovery
 
 Additional support in marketing, accounting, sales, legal and everything else that powers an early stage company.
 
