@@ -1,52 +1,9 @@
 ---
 title: "BET Inhibition Blocks Inflammation-Induced Cardiac Dysfunction and SARS-CoV-2 Infection"
 authors:
-- Richard J. Mills
-- Sean J. Humphrey
-- Patrick RJ. Fortuna
-- Mary Lor
-- Simon R. Foster
-- Gregory A. Quaife-Ryan
-- Rebecca L. Johnston
-- Troy Dumenil
-- Cameron Bishop
-- Rajeev Ruraraju
-- Daniel J. Rawle
-- Thuy Le
-- Wei Zhao
-- Leo Lee
-- Charley Mackenzie-Kludas
-- Neda R. Mehdiabadi
-- Christopher Halliday
-- Dean Gilham
-- Li Fu
-- Stephen J. Nicholls
-- Jan Johansson
-- Michael Sweeney
-- Norman C.W. Wong
-- Ewelina Kulikowski
-- Kamil A. Sokolowski
-- Brian W.C. Tse
-- Lynn Devilée
-- Holly K. Voges
-- Liam T. Reynolds
-- Sophie Krumeich
-- Ellen Mathieson
-- Dad Abu-Bonsrah
-- Kathy Karavendzas
-- Brendan Griffen
-- Drew Titmarsh
-- David A. Elliott
-- James McMahon
-- Andreas Suhrbier
-- Kanta Subbarao
-- Enzo R. Porrello
-- Mark J. Smyth
-- Christian R. Engwerda
-- Kelli PA. MacDonald
-- Tobias Bald
-- David E. James
-- James E. Hudson
+- Richard J. Mills, Sean J. Humphrey, Patrick RJ. Fortuna, Mary Lor, Simon R. Foster, Gregory A. Quaife-Ryan, Rebecca L. Johnston, Troy Dumenil, Cameron Bishop, Rajeev Ruraraju, Daniel J. Rawle, Thuy Le, Wei Zhao, Leo Lee, Charley Mackenzie-Kludas, Neda R. Mehdiabadi, Christopher Halliday, Dean Gilham, Li Fu, Stephen J. Nicholls, Jan Johansson, Michael Sweeney, Norman C.W. Wong, Ewelina Kulikowski, Kamil A. Sokolowski, Brian W.C. Tse, Lynn Devilée, Holly K. Voges, Liam T. Reynolds, Sophie Krumeich, Ellen Mathieson, Dad Abu-Bonsrah, Kathy Karavendzas
+- admin
+- Drew Titmarsh, David A. Elliott, James McMahon, Andreas Suhrbier, Kanta Subbarao, Enzo R. Porrello, Mark J. Smyth, Christian R. Engwerda, Kelli PA. MacDonald, Tobias Bald, David E. James, James E. Hudson
 
 date: "2021-03-11T00:00:00Z"
 doi: "10.1016/j.cell.2021.03.026"
