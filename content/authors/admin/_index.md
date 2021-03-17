@@ -14,14 +14,15 @@ role: CTO & co-founder
 
 # Organizations/Affiliations
 organizations:
-- name: A Cardiovascular Startup (Stealth)
-  url: ""
+- name: Dynomics
+  url: "http://www.dynomics.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Working at the intersection of computer science, engineering and biology.
 
 interests:
-- Bioinformatics
+- Cardiac Tissue Engineering
+- Systems Biology
 - Astrophysics
 - Digital Humanities
 - AI & Machine Learning
@@ -82,6 +83,6 @@ user_groups:
 
 Hi. I’m Brendan, a computational astrophysicist by training with core interests in biology, engineering and computer science based between San Francisco, California and Brisbane, Australia. I enjoy combining different technologies to solve challenging problems.
 
-I'm currently CTO and co-founder of a (soon to be announced) startup focused on reversing heart failure, deploying complex *in silico* and *in vitro* systems at the intersection of computer science, robotics, tissue engineering, immunology and stem cell biology. Stay tuned.
+I'm currently Chief Technology Officer and co-founder at Dynomics startup focused on reversing heart failure, deploying complex *in silico* and *in vitro* systems at the intersection of computer science, robotics, tissue engineering, immunology and stem cell biology.
 
 I'm also the Project Lead on the [Caterpillar Project](https://www.caterpillarproject.org/), a large computational galaxy formation suite at MIT focusing on the origin and evolution of the Milky Way. I am also a project collaborator on the more general galaxy formation project of [Illustris](http://www.illustris-project.org/) at the Center For Astrophysics at Harvard University.
