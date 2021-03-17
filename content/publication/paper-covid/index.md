@@ -1,10 +1,11 @@
 ---
-title: "Discovery of drugs to treat cytokine storm-induced cardiac dysfunction using human cardiac organoids"
+title: "BET Inhibition Blocks Inflammation-Induced Cardiac Dysfunction and SARS-CoV-2 Infection"
 authors:
-- admin
 - Mills, Richard J et al.
-date: "2020-08-23T00:00:00Z"
-doi: "10.1101/2020.08.23.258574"
+- admin
+
+date: "2021-03-11T00:00:00Z"
+doi: "10.1016/j.cell.2021.03.026"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-23T00:00:00Z"
@@ -13,16 +14,16 @@ publishDate: "2020-08-23T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Cell"
 publication_short: ""
 
-abstract: SARS-CoV2 infection leads to cardiac injury and dysfunction in 20-30% of hospitalized patients and higher rates of mortality in patients with pre-existing cardiovascular disease. Inflammatory factors released as part of the cytokine storm are thought to play a critical role in cardiac dysfunction in severe COVID-19 patients4. Here we use human cardiac organoids combined with high sensitivity phosphoproteomics and single nuclei RNA sequencing to identify inflammatory targets inducing cardiac dysfunction. This state-of-the-art pipeline allowed rapid deconvolution of mechanisms and identification of putative therapeutics. We identify a novel interferon-γ driven BRD4 (bromodomain protein 4)-fibrosis/iNOS axis as a key intracellular mediator of inflammation-induced cardiac dysfunction. This axis is therapeutically targetable using BRD4 inhibitors, which promoted full recovery of function in human cardiac organoids and prevented severe inflammation and death in a cytokine-storm mouse model. The BRD inhibitor INCB054329 was the most efficacious, and is a prime candidate for drug repurposing to attenuate cardiac dysfunction and improve COVID-19 mortality in humans.
+abstract: Cardiac injury and dysfunction occur in COVID-19 patients and increase the risk of mortality. Causes are ill defined, but could be direct cardiac infection and/or inflammation-induced dysfunction. To identify mechanisms and cardio-protective drugs, we use a state-of-the-art pipeline combining human cardiac organoids with phosphoproteomics and single nuclei RNA sequencing. We identify an inflammatory ‘cytokine-storm’, a cocktail of interferon gamma, interleukin 1β and poly(I:C), induced diastolic dysfunction. Bromodomain-containing protein 4 is activated along with a viral response that is consistent in both human cardiac organoids and hearts of SARS-CoV-2 infected K18-hACE2 mice. Bromodomain and extraterminal family inhibitors (BETi) recover dysfunction in hCO and completely prevent cardiac dysfunction and death in a mouse cytokine-storm model. Additionally, BETi decreases transcription of genes in the viral response, decreases ACE2 expression and reduces SARS-CoV-2 infection of cardiomyocytes. Together, BETi, including the FDA breakthrough designated drug apabetalone, are promising candidates to prevent COVID-19 mediated cardiac damage.
 
 # Summary. An optional shortened abstract.
-summary: COVID-19 causes cardiac injury and dysfunction in 20-30% of patients. Using human cardiac organoids combined with high sensitivity phosphoproteomics, we identify the drug INCB054329 as a prime candidate for drug repurposing to attenuate cardiac dysfunction and improve COVID-19 mortality in humans.
+summary: Cardiac injury and dysfunction occur in COVID-19 patients and increase the risk of mortality. Causes are ill defined, but could be direct cardiac infection and/or inflammation-induced dysfunction.  Bromodomain and extraterminal family inhibitors (BETi) recover dysfunction in hCO and completely prevent cardiac dysfunction and death in a mouse cytokine-storm model. Additionally, BETi decreases transcription of genes in the viral response, decreases ACE2 expression and reduces SARS-CoV-2 infection of cardiomyocytes. Together, BETi, including the FDA breakthrough designated drug apabetalone, are promising candidates to prevent COVID-19 mediated cardiac damage.
 
 tags:
 - cardiology
@@ -33,8 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2020.08.23.258574v1.full.pdf
-url_code: ''
+url_pdf: https://www.cell.com/cell/fulltext/S0092-8674(21)00354-8
 url_dataset: ''
 url_poster: ''
 url_project: ''
