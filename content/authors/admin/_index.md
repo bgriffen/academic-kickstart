@@ -82,6 +82,6 @@ user_groups:
 
 Hi. I’m Brendan, a computational astrophysicist by training with core interests in biology, engineering and computer science based between San Francisco, California and Brisbane, Australia. I enjoy combining different technologies to solve challenging problems.
 
-I'm currently Chief Technology Officer and co-founder at Dynomics, a startup focused on reversing heart failure, deploying complex *in silico* and *in vitro* systems at the intersection of computer science, robotics, tissue engineering, immunology and stem cell biology.
+I'm currently Chief Technology Officer and co-founder at [Dynomics](http:/www.dynomics.com), a startup focused on reversing heart failure, deploying complex *in silico* and *in vitro* systems at the intersection of computer science, robotics, tissue engineering, immunology and stem cell biology.
 
 I'm also the Project Lead on the [Caterpillar Project](https://www.caterpillarproject.org/), a large computational galaxy formation suite at MIT focusing on the origin and evolution of the Milky Way. I am also a project collaborator on the more general galaxy formation project of [Illustris](http://www.illustris-project.org/) at the Center For Astrophysics at Harvard University.
