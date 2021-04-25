@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 Combining cardiac biology, computer science, robotics, bioengineering and omics data to find molecules that reverse heart failure. 
 
 Areas include:  
-► computer vision, video microscopy, image cytometry, signal processing
+► computer vision, video microscopy, image cytometry, signal processing  
 ► distributed supervised and unsupervised machine learning models  
 ► multi-dimensional data optimization, processing and statistical modeling  
 ► cloud based analysis and discovery
