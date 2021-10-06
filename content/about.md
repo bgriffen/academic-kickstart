@@ -12,8 +12,7 @@ In a past life, I was a computational astrophysicist studying galaxy formation a
 
 ### Code
 
-I've written a bit of software over the years. My public projects can be found in
-[repositories on GitHub](https://github.com/bgriffen). Examples include:
+Although a lot of code I've written recently is tied up in my startup ventures, my public projects and astrophysics work can be found at [these repositories on GitHub](https://github.com/bgriffen). Examples include:
 
 <script id="code-template" type="x-tmpl-mustache">
 {{#codes}}
@@ -25,23 +24,21 @@ I've written a bit of software over the years. My public projects can be found i
 Unable to load of software.
 {{/codes}}
 </script>
-
+* [*Caterpillar Project*](https://github.com/orgs/caterpillarproject/) &mdash; large scale dark matter simulations to disentangle the formation history of the Milky Way.
+* 
 <ul id="codelist"></ul>
 
 More tools, especially bio focused, will be available soon.
 
 ### Affiliations
 
-I've also written a lot of software for other endevours I've been apart of:
-
 * [*Dynomics Inc*](https://github.com/orgs/dynomics/) &mdash; discovering targeted therapies to reverse heart failure using cardiac organoids.
 * [*Scaled Biolabs Inc*](https://github.com/orgs/scaledbiolabs/) &mdash; combining microfluidics, bioengineering and computer science to do high-throughput optimization.
-* [*Caterpillar Project*](https://github.com/orgs/caterpillarproject/) &mdash; large scale dark matter simulations to disentangle the formation history of the Milky Way.
+
 
 ### Publications
 
-My full list of publications is available
-[Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en). Highlights include:
+My full list of publications is available on [Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en). Highlights include:
 
 #### Biotechnology
 
