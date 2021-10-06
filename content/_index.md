@@ -1,5 +1,5 @@
 ---
 title: "Brendan Griffen"
 fullname: "Brendan"
-subheading: "I did astrophysics, now I do biotech."
+subheading: "I used to do astrophysics, now I do biotech."
 ---
