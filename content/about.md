@@ -30,7 +30,7 @@ Unable to load of software.
 
 More tools, especially bio focused, will be available soon.
 
-### Affiliations
+### Startups
 
 * [*Dynomics Inc*](https://github.com/orgs/dynomics/) &mdash; discovering targeted therapies to reverse heart failure using cardiac organoids.
 * [*Scaled Biolabs Inc*](https://github.com/orgs/scaledbiolabs/) &mdash; combining microfluidics, bioengineering and computer science to do high-throughput optimization.
