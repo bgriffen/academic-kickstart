@@ -4,7 +4,7 @@ title: "About"
 
 ## Hi, I'm Brendan Griffen
 
-My work focuses on building deep tech at the intersection of biology, engineering and computer science and am based between San Francisco and Brisbane, Australia.
+I build deep tech at the intersection of biology, engineering and computer science and am based between San Francisco and Brisbane, Australia.
 
 In a past life I studied cosmology and galaxy formation at MIT while leading the [Caterpillar Project](https://www.caterpillarproject.org/), and was a contributor to the [Illustris Project](http://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
 
