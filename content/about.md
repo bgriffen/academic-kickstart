@@ -16,6 +16,7 @@ Although a lot of code I've written recently is tied up in my startup ventures, 
 
 <script id="code-template" type="x-tmpl-mustache">
 {{#codes}}
+* [*Caterpillar Project*](https://github.com/orgs/caterpillarproject/) &mdash; large scale dark matter simulations to disentangle the formation history of the Milky Way.
 <li>
     <i><a href="{{url}}">{{name}}</a></i> &mdash; {{description}}
 </li>
@@ -24,7 +25,7 @@ Although a lot of code I've written recently is tied up in my startup ventures, 
 Unable to load of software.
 {{/codes}}
 </script>
-* [*Caterpillar Project*](https://github.com/orgs/caterpillarproject/) &mdash; large scale dark matter simulations to disentangle the formation history of the Milky Way.
+
 
 <ul id="codelist"></ul>
 
