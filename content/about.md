@@ -35,7 +35,7 @@ More tools, especially bio focused, will be available soon.
 * [*Dynomics Inc*](https://dynomics.com) [Github](https://github.com/orgs/dynomics/) &mdash; targeted therapies to reverse heart failure using cardiac organoids.
 * [*Scaled Biolabs Inc*](https://scaledbiolabs.com) [Github](https://github.com/orgs/scaledbiolabs/) &mdash; microfluidics, bioengineering and computer science to perform high-throughput cell-based assay optimization.
 
-As part of co-founding these companies, I participated in two biotech accelerator programs in San Francisco:
+I've participated in two biotech accelerator programs in San Francisco relating to these two companies:
 
 * [*Boost VC* (Tribe 13)](https://www.boost.vc/) &mdash; backing sci-fi founders.
 * [*Indie Bio* (Batch 4)](https://indiebio.co/) &mdash; the world's largest biotech investor.
