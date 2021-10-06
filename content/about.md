@@ -32,8 +32,8 @@ More tools, especially bio focused, will be available soon.
 
 ### Startups
 
-* [*Dynomics Inc*](https://dynomics.com) [Github](https://github.com/orgs/dynomics/) &mdash; targeted therapies to reverse heart failure using cardiac organoids.
-* [*Scaled Biolabs Inc*](https://scaledbiolabs.com) [Github](https://github.com/orgs/scaledbiolabs/) &mdash; microfluidics, bioengineering and computer science to perform high-throughput cell-based assay optimization.
+* [*Dynomics Inc*](https://dynomics.com) ([Github](https://github.com/orgs/dynomics)) &mdash; targeted therapies to reverse heart failure using cardiac organoids.
+* [*Scaled Biolabs Inc*](https://scaledbiolabs.com) ([Github](https://github.com/orgs/scaledbiolabs/)) &mdash; microfluidics, bioengineering and computer science to perform high-throughput cell-based assay optimization.
 
 I've participated in two biotech accelerator programs in San Francisco relating to these two companies:
 
