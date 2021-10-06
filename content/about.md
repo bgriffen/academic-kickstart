@@ -12,8 +12,8 @@ In a past life, I was a computational astrophysicist and Project Lead on the [Ca
 
 ### Code
 
-I've done a bit of coding over the years. My public projects can be found in
-[repositories on GitHub](https://github.com/bgriffen). Here are some sample repos:
+I've written a bit of software over the years. My public projects can be found in
+[repositories on GitHub](https://github.com/bgriffen). Examples include:
 
 <script id="code-template" type="x-tmpl-mustache">
 {{#codes}}
@@ -28,7 +28,7 @@ Unable to load of software.
 
 <ul id="codelist"></ul>
 
-More to be made public soon (and the blog is motivation).
+More tools, especially bio focused, will be available soon.
 
 ### Affiliations
 
