@@ -41,8 +41,7 @@ I've also written a lot of code for other teams I've been apart of:
 ### Publications
 
 My full list of publications is available
-[Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en)
-but here are a few highlights:
+[Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en). A few highlights include:
 
 #### Biotechnology
 
