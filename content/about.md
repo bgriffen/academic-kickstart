@@ -37,8 +37,8 @@ More tools, especially bio focused, will be available soon.
 
 As part of founding these companies, I've participated in the two leading biotech accelerator programs in San Francisco:
 
-* [*Boost VC*](https://www.boost.vc/) &mdash; backing sci-fi founders (Tribe 13).
-* [*Indie Bio*](https://indiebio.co/) &mdash; the world's largest biotech investor (Batch 4).
+* [*Boost VC* (Tribe 13)](https://www.boost.vc/) &mdash; backing sci-fi founders.
+* [*Indie Bio* (Batch 4)](https://indiebio.co/) &mdash; the world's largest biotech investor.
 
 ### Publications
 
