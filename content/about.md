@@ -4,19 +4,20 @@ title: "About"
 
 ## Hi, I'm Brendan Griffen
 
-I’m a computational astrophysicist by training with core interests in biology, engineering and computer science based between San Francisco and Brisbane, Australia.
+My work focuses on deep technology at the intersection of biology, engineering and computer science and am based between San Francisco and Brisbane, Australia.
 
-I studied cosmology and galaxy formation at MIT while leading the [Caterpillar Project](https://www.caterpillarproject.org/), and I was a contributor to the [Illustris Project](http://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
+In a past life I studied cosmology and galaxy formation at MIT while leading the [Caterpillar Project](https://www.caterpillarproject.org/), and was a contributor to the [Illustris Project](http://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
 
 I’m currently Chief Technology Officer and co-founder at [Dynomics](https:/www.dynomics.com). We're a startup focused on discovering targeted therapies to reverse heart failure using complex *in silico* and *in vitro* systems.
 
 ### Code
 
-Although a lot of code I've written recently is tied up in my startup ventures, my public projects and astrophysics work can be found at [these repositories on GitHub](https://github.com/bgriffen). Examples include:
+Although a lot of code I've written recently is tied up in my new ventures, my public projects and astrophysics work can be found at [these repositories on GitHub](https://github.com/bgriffen). Examples include:
 
+* [*Caterpillar Project*](https://github.com/orgs/caterpillarproject/) &mdash; large scale dark matter simulations to disentangle the formation history of the Milky Way.
+* 
 <script id="code-template" type="x-tmpl-mustache">
 {{#codes}}
-* [*Caterpillar Project*](https://github.com/orgs/caterpillarproject/) &mdash; large scale dark matter simulations to disentangle the formation history of the Milky Way.
 <li>
     <i><a href="{{url}}">{{name}}</a></i> &mdash; {{description}}
 </li>
