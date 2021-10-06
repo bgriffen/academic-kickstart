@@ -42,7 +42,7 @@ As part of founding these companies, I participated in the two leading biotech a
 
 ### Publications
 
-My full list of publications is available on [Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en). Highlights include:
+My full list of publications is available on [Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en). Highlights:
 
 #### Biotechnology
 
