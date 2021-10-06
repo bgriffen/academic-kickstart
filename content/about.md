@@ -32,7 +32,7 @@ More tools, especially bio focused, will be available soon.
 
 ### Affiliations
 
-I've also written a lot of code for other teams I've been apart of:
+I've also written a lot of software for other endevours I've been apart of:
 
 * [*Dynomics Inc*](https://github.com/orgs/dynomics/) &mdash; discovering targeted therapies to reverse heart failure using cardiac organoids.
 * [*Scaled Biolabs Inc*](https://github.com/orgs/scaledbiolabs/) &mdash; combining microfluidics, bioengineering and computer science to do high-throughput optimization.
