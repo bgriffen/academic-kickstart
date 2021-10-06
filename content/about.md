@@ -12,10 +12,8 @@ I’m currently Chief Technology Officer and co-founder at [Dynomics](https:/www
 
 ### Code
 
-Although a lot of code I've written recently is tied up in my new ventures, my public projects and astrophysics work can be found at [these repositories on GitHub](https://github.com/bgriffen). Examples include:
+Although a lot of code I've written recently is tied up in my new ventures, my public projects and [astrophysics work](https://github.com/orgs/caterpillarproject/) can be found at [these repositories on GitHub](https://github.com/bgriffen). Examples include:
 
-* [*Caterpillar Project*](https://github.com/orgs/caterpillarproject/) &mdash; large scale dark matter simulations to disentangle the formation history of the Milky Way.
-* 
 <script id="code-template" type="x-tmpl-mustache">
 {{#codes}}
 <li>
