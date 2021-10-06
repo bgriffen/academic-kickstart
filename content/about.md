@@ -4,11 +4,13 @@ title: "About"
 
 ## Hi, I'm Brendan Griffen
 
-I'm a computational astrophysicist by training with core interests in biology, engineering and computer science based between San Francisco and Brisbane, Australia.
+I’m a computational astrophysicist by training with core interests in biology, engineering and computer science based between San Francisco and Brisbane, Australia.
 
-I'm currently Chief Technology Officer and co-founder at [Dynomics](https:/www.dynomics.com), a startup focused on discovering targeted therapies to reverse heart failure using complex *in silico* and *in vitro* systems.
+I studied cosmology and galaxy formation at MIT while leading the Caterpillar Project, and I was a contributor to the Illustrious Project at the Center for Astrophysics at Harvard University
 
-In a past life, I was a computational astrophysicist studying galaxy formation and Project Lead on the [Caterpillar Project](https://www.caterpillarproject.org/) at MIT and contributor to the [Illustris Project](http://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
+I studied cosmology and galaxy formation at MIT while leading the [Caterpillar Project](https://www.caterpillarproject.org/), and I was a contributor to the [Illustris Project](http://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
+
+I’m currently Chief Technology Officer and co-founder at [Dynomics](https:/www.dynomics.com). We're a startup focused on discovering targeted therapies to reverse heart failure using complex *in silico* and *in vitro* systems.
 
 ### Code
 
