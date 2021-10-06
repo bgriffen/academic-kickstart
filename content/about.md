@@ -41,7 +41,7 @@ I've also written a lot of software for other endevours I've been apart of:
 ### Publications
 
 My full list of publications is available
-[Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en). A few highlights include:
+[Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en). Highlights include:
 
 #### Biotechnology
 
