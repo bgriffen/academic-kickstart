@@ -63,7 +63,7 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    #images: ["papermod-cover.png"]
 
     profileMode:
         enabled: false
@@ -72,7 +72,6 @@ params:
         #imageTitle: my image
         imageWidth: 150
         imageHeight: 150
-        #subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
         subtitle: "An ex-astrophysicist building the future of biotech."
         #buttons:
         #    - name: Blog
@@ -85,9 +84,6 @@ params:
         Content: >
             An ex-astrophysicist building the future of biotech.
              - Currently CTO & co-founder of [💓 Dynomics Inc](https://dynomics.com).
-#            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-#            - Do give a 🌟 on Github !
-#            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
 
     socialIcons:
         - name: github
