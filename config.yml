@@ -40,21 +40,6 @@ languages:
                   url: archives/
                   weight: 6
 
-#    fa:
-#        languagedirection: rtl
-#        weight: 3
-#        title: PaperMod RTL
-#        homeInfoParams:
-#            Title: "Hi there \U0001F44B"
-#            Content: Welcome to RTL layout
-#        menu:
-#            main:
-#                - name: Tags
-#                  url: tags
-#                  weight: 10
-#
-
-
 outputs:
     home:
         - HTML
@@ -109,6 +94,8 @@ params:
           url: "https://github.com/adityatelange/hugo-PaperMod"
         - name: email
           url: "mailto:brendan.f.griffen@gmail.com"
+        - name: twitter
+          url: "https://www.twitter.com/bgriffen/"
         - name: linkedin
           url: "https://www.linkedin.com/in/brendangriffen/"
         - name: RsS
