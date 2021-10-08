@@ -95,7 +95,7 @@ params:
         - name: email
           url: "mailto:brendan.f.griffen@gmail.com"
         - name: twitter
-          url: "https://www.twitter.com/bgriffen/"
+          url: "https://www.twitter.com/brendangriffen/"
         - name: linkedin
           url: "https://www.linkedin.com/in/brendangriffen/"
         - name: RsS
