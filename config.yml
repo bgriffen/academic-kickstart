@@ -48,7 +48,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Brendan Griffen website"
+    description: "An ex-astrophysicist building the future of biotech."
     author: Brendan Griffen
     # author: ["Me", "You"] # multiple authors
 
@@ -84,7 +84,7 @@ params:
         Title: "Hi. I'm Brendan."
         Content: >
             An ex-astrophysicist building the future of biotech.
-
+             - Currently Chief Technology Officer & co-founder of [💓 Dynomics Inc](https://dynomics.com).
 #            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
 #            - Do give a 🌟 on Github !
 #            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
