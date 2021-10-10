@@ -87,7 +87,7 @@ params:
         Title: "Hi, I'm"
         Name: "Brendan"
         Content: >
-            An ex-astrophysicist building the future of biotech.
+            Ex-astrophysicist building the future of biotech.
              - CTO & co-founder @ [Dynomics Inc](https://dynomics.com).
 
     socialIcons:
