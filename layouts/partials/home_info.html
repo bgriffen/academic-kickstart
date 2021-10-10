@@ -1,7 +1,7 @@
 {{- with $.Site.Params.homeInfoParams }}
 <article class="first-entry home-info">
     <header class="entry-header">
-        <h1>{{ .Title | markdownify }} <a href="https://brendangriffen.com/about"><span style="color:#FF4500"><u>{{ .Name | markdownify }}</u></span></a>.</h1>
+        <h1>{{ .Title | markdownify }} <span style="color:orangered"><u><a href="https://brendangriffen.com/about">{{ .Name | markdownify }}</u></span></a>.</h1>
     </header>
     <section class="entry-content">
         <p>{{ .Content | markdownify }}</p>
