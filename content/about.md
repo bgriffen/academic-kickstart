@@ -1,5 +1,5 @@
 ---
-title: "Hi. I'm Brendan."
+title: "Hi, I'm Brendan."
 layout: "page"
 url: "/about"
 summary: "About"
