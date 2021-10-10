@@ -108,7 +108,7 @@ params:
         appendFilePath: true # to append file path to Edit link
 
     label:
-        text: "bfg >"
+        text: "bfg"
         #icon: icon.png
         iconHeight: 35
 
