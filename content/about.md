@@ -71,7 +71,7 @@ Unable to load publication list.
 <script id="pub-template-astro" type="x-tmpl-mustache">
 {{#pubs}}
 <li>
-    {{authorsFormat}}, {{year}}, <a href="{{url}}"><i>{{title}}</i></a>.
+    {{authorsFormat}}, {{year}}, <a href="{{url}}"><i>{{title}}</i></a>, {{pub}}.
     {{#codeLink}}<br><small>[<a href="{{codeLink}}">code</a>]</small>{{/codeLink}}
 </li>
 {{/pubs}}
