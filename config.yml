@@ -68,7 +68,7 @@ params:
     profileMode:
         enabled: false
         title: Hi. I'm Brendan.
-        imageUrl: "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTc5ODc5NjY5ODU0NjQzMzIy/gettyimages-3091504.jpg"
+        #imageUrl: "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTc5ODc5NjY5ODU0NjQzMzIy/gettyimages-3091504.jpg"
         #imageTitle: my image
         imageWidth: 150
         imageHeight: 150
@@ -83,7 +83,7 @@ params:
         Title: "Hi. I'm Brendan."
         Content: >
             An ex-astrophysicist building the future of biotech.
-             - CTO & co-founder // [💓 Dynomics Inc](https://dynomics.com).
+             - CTO & co-founder > [💓 Dynomics Inc](https://dynomics.com).
 
     socialIcons:
         - name: github
