@@ -116,8 +116,8 @@ params:
     #     google:
     #         SiteVerificationTag: "XYZabc"
 
-    #assets:
-    #    favicon: "/favicon.ico"
+    assets:
+        favicon: "favicon.ico"
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
     #     apple_touch_icon: "<link / abs url>"
