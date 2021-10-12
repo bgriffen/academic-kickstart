@@ -1,6 +1,6 @@
 baseURL: "https://brendangriffen.com"
 title: Brendan Griffen
-paginate: 20
+paginate: 5
 theme: hugo-PaperMod
 
 enableInlineShortcodes: true
@@ -69,6 +69,8 @@ params:
     # comments: false
     #images: ["papermod-cover.png"]
 
+    ShowFullTextinRSS: true
+    
     profileMode:
         enabled: false
         title: Hi, I'm Brendan.
@@ -123,10 +125,10 @@ params:
     #     apple_touch_icon: "<link / abs url>"
     #     safari_pinned_tab: "<link / abs url>"
 
-    # cover:
-    #     hidden: true # hide everywhere but not in structured data
-    #     hiddenInList: true # hide on list pages and home
-    #     hiddenInSingle: true # hide on single page
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: false # hide on single page
 
     # fuseOpts:
     #     isCaseSensitive: false
