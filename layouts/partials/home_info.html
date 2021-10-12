@@ -3,6 +3,10 @@
     <header class="entry-header">
         <h1>{{ .Title | markdownify }} <span style="color:#3cc0f2"><u><a href="https://brendangriffen.com/about">{{ .Name | markdownify }}</u></span></a>.</h1>
     </header>
+
+
+<!--End mc_embed_signup-->
+
     <section class="entry-content">
         <p>{{ .Content | markdownify }}</p>
     </section>
@@ -10,4 +14,5 @@
         {{ partial "social_icons.html" $.Site.Params.socialIcons }}
     </footer>
 </article>
+
 {{- end -}}
