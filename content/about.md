@@ -32,6 +32,7 @@ I am based between San Francisco, CA and Brisbane, Australia.
 
 * CTO @ [Dynomics Inc.](https://dynomics.com) <span style="float:right;">2021 - present </span>
 * CTO @ [Scaled Biolabs Inc.](https://scaledbiolabs.com) <span style="float:right;">2017 - 2020</span>
+* Postdoctoral Scholar, Massachusetts Institute of Technology<span style="float:right;">2013 - 2017</span>
 
 I've also participated in two biotech accelerator programs in San Francisco:
 
@@ -40,7 +41,7 @@ I've also participated in two biotech accelerator programs in San Francisco:
 
 ### Education
 
-* Postdoctoral Scholar, Massachusetts Institute of Technology<span style="float:right;">2013 - 2017</span>
+
 * Ph.D. (computational astrophysics), University of Queensland<span style="float:right;">2008 - 2012</span>
 * Bachelor of Science (+Hons.), University of Queensland<span style="float:right;">2003 - 2007</span>
 
