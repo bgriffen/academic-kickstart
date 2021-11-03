@@ -64,7 +64,7 @@ More tools, especially bio focused, will be made available soon.
 
 ### Publications
 
-My full list of publications is available on [Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en). Highlights:
+My full list of publications is available on [Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en).
 
 #### Biotechnology
 
