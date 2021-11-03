@@ -34,7 +34,7 @@ I am based between San Francisco, CA and Brisbane, Australia.
 * Chief Technology Officer & co-founder @ [Scaled Biolabs Inc.](https://scaledbiolabs.com) <span style="float:right;">2017 - 2020</span>
 * Postdoctoral Scholar, Massachusetts Institute of Technology<span style="float:right;">2013 - 2017</span>
 
-Through these companies, I have been through two accelerator programs in SF.
+In starting these companies, I have been been through two accelerator programs in SF.
 
 * [Boost VC (Tribe 13)](https://www.boost.vc/) &mdash; backing sci-fi founders.
 * [Indie Bio (Batch 4)](https://indiebio.co/) &mdash; the world's largest biotech investor.
