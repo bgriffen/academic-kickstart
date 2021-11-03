@@ -40,7 +40,7 @@ I've also participated in two biotech accelerator programs in San Francisco:
 
 ### Education
 
-* Postdoctoral Scholar, Masschusetts Institute of Technology<span style="float:right;">2013 - 2017</span>
+* Postdoctoral Scholar, Massachusetts Institute of Technology<span style="float:right;">2013 - 2017</span>
 * PhD. (computational astrophysics), University of Queensland<span style="float:right;">2008 - 2012</span>
 * Bachelor of Science (+Hons.), University of Queensland<span style="float:right;">2003 - 2007</span>
 
