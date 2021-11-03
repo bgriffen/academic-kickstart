@@ -13,13 +13,38 @@ ShowBreadCrumbs: false
 
 I build deep tech at the intersection of biology, engineering and computer science and am based between San Francisco and Brisbane, Australia.
 
-In a past life I studied cosmology and galaxy formation at MIT while leading the [Caterpillar Project](https://www.caterpillarproject.org/), and was a contributor to the [Illustris Project](http://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
-
 I’m currently Chief Technology Officer and co-founder at [Dynomics](https:/www.dynomics.com). We're a startup focused on discovering targeted therapies to reverse heart failure using complex *in silico* and *in vitro* systems.
+
+In a past life I studied cosmology and galaxy formation at the Kavli Institute at MIT, leading the [Caterpillar Project](https://www.caterpillarproject.org/), and was a contributor to the [Illustris Project](http://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
+
+### Interests
+
+- Computational Biology
+- Astrophysics & Cosmology
+- Systems Engineering
+- Decentralization & Privacy
+- Deep Technology 
+- National Parks
+
+### Experience
+
+* CTO @ [Dynomics Inc.](https://dynomics.com) <span style="float:right;">2021 - present </span>
+* CTO @ [Scaled Biolabs Inc.](https://scaledbiolabs.com) <span style="float:right;">2017 - 2020 </span>
+
+Participated in two biotech accelerator programs in San Francisco:
+
+* [Boost VC (Tribe 13)](https://www.boost.vc/) &mdash; backing sci-fi founders.
+* [Indie Bio (Batch 4)](https://indiebio.co/) &mdash; the world's largest biotech investor.
+
+### Education
+
+* Postdoctoral Scholar, Masschusetts Institute of Technology<span style="float:right;">2013 - 2017</span>
+* PhD. (computational astrophysics), University of Queensland<span style="float:right;">2008 - 2012</span>
+* Bachelor of Science (+Hons), University of Queensland<span style="float:right;">2003 - 2007</span>
 
 ### Code
 
-Although a lot of code I've written recently is tied up in my new ventures, my public projects and [astrophysics work](https://github.com/orgs/caterpillarproject/) can be found at [these repositories on GitHub](https://github.com/bgriffen). Examples include:
+Although a lot of code I've written recently is tied up in my new ventures, some of my public projects and [astrophysics work](https://github.com/orgs/caterpillarproject/) can be found at [these repositories on GitHub](https://github.com/bgriffen). Examples include:
 
 <script id="code-template" type="x-tmpl-mustache">
 {{#codes}}
@@ -32,20 +57,10 @@ Unable to load of software.
 {{/codes}}
 </script>
 
-
 <ul id="codelist"></ul>
 
-More tools, especially bio focused, will be available soon.
+More tools, especially bio focused, will be made available soon.
 
-### Startups
-
-* [*Dynomics Inc*](https://dynomics.com) ([Github](https://github.com/orgs/dynomics)) &mdash; targeted therapies to reverse heart failure using cardiac organoids.
-* [*Scaled Biolabs Inc*](https://scaledbiolabs.com) ([Github](https://github.com/orgs/scaledbiolabs/)) &mdash; microfluidics, bioengineering and computer science to perform high-throughput cell-based assay optimization.
-
-I've participated in two biotech accelerator programs in San Francisco relating to these two companies:
-
-* [*Boost VC* (Tribe 13)](https://www.boost.vc/) &mdash; backing sci-fi founders.
-* [*Indie Bio* (Batch 4)](https://indiebio.co/) &mdash; the world's largest biotech investor.
 
 ### Publications
 
@@ -81,7 +96,6 @@ Unable to load publication list.
 </script>
 
 <ul id="publist-astro"></ul>
-
 
 
 <script src="https://unpkg.com/mustache@latest"></script>
