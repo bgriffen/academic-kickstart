@@ -11,28 +11,29 @@ ShowPostNavLinks: false
 ShowBreadCrumbs: false
 ---
 
-I build deep tech at the intersection of biology, engineering and computer science and am based between San Francisco and Brisbane, Australia.
+I build deep tech at the intersection of biology, engineering and computer science.
 
 I’m currently Chief Technology Officer and co-founder at [Dynomics](https:/www.dynomics.com). We're a startup focused on discovering targeted therapies to reverse heart failure using complex *in silico* and *in vitro* systems.
 
 In a past life I studied cosmology and galaxy formation at the Kavli Institute at MIT, leading the [Caterpillar Project](https://www.caterpillarproject.org/), and was a contributor to the [Illustris Project](http://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
 
+I am based between San Francisco, CA and Brisbane, Australia.
+
 ### Interests
 
 - Computational Biology
+- Systems & DBTL Engineering
 - Astrophysics & Cosmology
-- Systems Engineering
 - AI & Machine Learning
-- Decentralization & Privacy
 - Deep Tech
 - National Parks
 
 ### Experience
 
 * CTO @ [Dynomics Inc.](https://dynomics.com) <span style="float:right;">2021 - present </span>
-* CTO @ [Scaled Biolabs Inc.](https://scaledbiolabs.com) <span style="float:right;">2017 - 2020 </span>
+* CTO @ [Scaled Biolabs Inc.](https://scaledbiolabs.com) <span style="float:right;">2017 - 2020</span>
 
-Participated in two biotech accelerator programs in San Francisco:
+I've also participated in two biotech accelerator programs in San Francisco:
 
 * [Boost VC (Tribe 13)](https://www.boost.vc/) &mdash; backing sci-fi founders.
 * [Indie Bio (Batch 4)](https://indiebio.co/) &mdash; the world's largest biotech investor.
@@ -41,7 +42,7 @@ Participated in two biotech accelerator programs in San Francisco:
 
 * Postdoctoral Scholar, Masschusetts Institute of Technology<span style="float:right;">2013 - 2017</span>
 * PhD. (computational astrophysics), University of Queensland<span style="float:right;">2008 - 2012</span>
-* Bachelor of Science (+Hons), University of Queensland<span style="float:right;">2003 - 2007</span>
+* Bachelor of Science (+Hons.), University of Queensland<span style="float:right;">2003 - 2007</span>
 
 ### Code
 
