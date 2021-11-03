@@ -22,8 +22,9 @@ In a past life I studied cosmology and galaxy formation at the Kavli Institute a
 - Computational Biology
 - Astrophysics & Cosmology
 - Systems Engineering
+- AI & Machine Learning
 - Decentralization & Privacy
-- Deep Technology 
+- Deep Tech
 - National Parks
 
 ### Experience
