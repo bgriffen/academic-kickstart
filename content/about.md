@@ -13,7 +13,7 @@ ShowBreadCrumbs: false
 
 I build deep tech at the intersection of biology, engineering and computer science.
 
-I’m currently Chief Technology Officer and co-founder at [Dynomics](https:/www.dynomics.com). We're a startup focused on discovering targeted therapies to reverse heart failure using complex *in silico* and *in vitro* systems.
+I’m currently Chief Technology Officer and co-founder at [Dynomics](https://www.dynomics.com). We're a startup focused on discovering targeted therapies to reverse heart failure using complex *in silico* and *in vitro* systems.
 
 In a past life I studied cosmology and galaxy formation at the Kavli Institute at MIT, leading the [Caterpillar Project](https://www.caterpillarproject.org/), and was a contributor to the [Illustris Project](http://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
 
@@ -31,7 +31,7 @@ I am based between San Francisco, CA and Brisbane, Australia.
 ### Experience
 
 * Chief Technology Officer & co-founder @ [Dynomics Inc.](https://dynomics.com) <span style="float:right;">2021 - <i>present</i> </span>
-* Chief Technology Officer & co-founder @ [Scaled Biolabs Inc.](https://scaledbiolabs.com) <span style="float:right;">2017 - 2020</span>
+* Chief Technology Officer & co-founder @ Scaled Biolabs Inc. <span style="float:right;">2017 - 2020</span>
 * Postdoctoral Scholar, Massachusetts Institute of Technology<span style="float:right;">2013 - 2017</span>
 
 In starting these companies, I have been through two accelerator programs in SF.
