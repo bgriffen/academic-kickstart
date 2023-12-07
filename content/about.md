@@ -47,7 +47,7 @@ San Francisco accelerators:
 
 ### Code
 
-Although a lot of code I've written recently is tied up in my new ventures, some of my public projects and [astrophysics work](https://github.com/orgs/caterpillarproject/) can be found at [these repositories on GitHub](https://github.com/bgriffen).
+Although a lot of code I've written recently is tied up in my new ventures, some of my astrophysics work can be found at [these respoitories](https://github.com/orgs/caterpillarproject/) or more general experiments at [the following repositories]([https://github.com/bgriffen](https://github.com/bgriffen?tab=repositories)).
 
 ### Publications
 
