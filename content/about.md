@@ -34,7 +34,7 @@ I am based between San Francisco, CA and Brisbane, Australia.
 * Chief Technology Officer & co-founder @ Scaled Biolabs Inc. <span style="float:right;">2017 - 2020</span>
 * Postdoctoral Scholar, Massachusetts Institute of Technology<span style="float:right;">2013 - 2017</span>
 
-In starting these companies, I have been through two accelerator programs in SF.
+San Francisco accelerators:
 
 * [Boost VC (Tribe 13)](https://www.boost.vc/) &mdash; backing sci-fi founders.
 * [Indie Bio (Batch 4)](https://indiebio.co/) &mdash; the world's largest biotech investor.
@@ -47,23 +47,7 @@ In starting these companies, I have been through two accelerator programs in SF.
 
 ### Code
 
-Although a lot of code I've written recently is tied up in my new ventures, some of my public projects and [astrophysics work](https://github.com/orgs/caterpillarproject/) can be found at [these repositories on GitHub](https://github.com/bgriffen). Examples include:
-
-<script id="code-template" type="x-tmpl-mustache">
-{{#codes}}
-<li>
-    <i><a href="{{url}}">{{name}}</a></i> &mdash; {{description}}
-</li>
-{{/codes}}
-{{^codes}}
-Unable to load of software.
-{{/codes}}
-</script>
-
-<ul id="codelist"></ul>
-
-More tools, especially bio focused, will be made available soon.
-
+Although a lot of code I've written recently is tied up in my new ventures, some of my public projects and [astrophysics work](https://github.com/orgs/caterpillarproject/) can be found at [these repositories on GitHub](https://github.com/bgriffen).
 
 ### Publications
 
