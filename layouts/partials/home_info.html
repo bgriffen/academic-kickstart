@@ -1,18 +1,13 @@
-{{- with $.Site.Params.homeInfoParams }}
+{{- with site.Params.homeInfoParams }}
 <article class="first-entry home-info">
     <header class="entry-header">
-        <h1>{{ .Title | markdownify }} <span style="color:#3cc0f2"><u><a href="https://brendangriffen.com/about">{{ .Name | markdownify }}</u></span></a>.</h1>
+        <h1>{{ .Title | markdownify }}</h1>
     </header>
-
-
-<!--End mc_embed_signup-->
-
-    <section class="entry-content">
-        <p>{{ .Content | markdownify }}</p>
-    </section>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
     <footer class="entry-footer">
-        {{ partial "social_icons.html" $.Site.Params.socialIcons }}
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>
 </article>
-
 {{- end -}}
