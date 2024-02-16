@@ -54,8 +54,6 @@ outputs:
     - RSS
     - JSON
 
-defaultContentLanguage: "en"
-
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "An ex-astrophysicist building the future of biotech."
