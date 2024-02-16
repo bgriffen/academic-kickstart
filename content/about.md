@@ -49,6 +49,19 @@ San Francisco accelerators:
 
 Although a lot of code I've written recently is tied up in my new ventures, some of my astrophysics work can be found at [these respoitories](https://github.com/orgs/caterpillarproject/) or more general tinkering [over here](https://github.com/bgriffen?tab=repositories).
 
+<script id="code-template" type="x-tmpl-mustache">
+{{#codes}}
+<li>
+    <i><a href="{{homepageUrl}}">{{name}}</a></i> &mdash; {{description}}
+</li>
+{{/codes}}
+{{^codes}}
+Unable to load of software.
+{{/codes}}
+</script>
+
+<!-- <ul id="codelist"></ul> -->
+
 ### Publications
 
 My full list of publications is available on [Google Scholar](https://scholar.google.com.au/citations?user=ndwtPccAAAAJ&hl=en).
@@ -70,6 +83,8 @@ Unable to load publication list.
 <ul id="publist-biotech"></ul>
 
 #### Astrophysics
+
+
 <script id="pub-template-astro" type="x-tmpl-mustache">
 {{#pubs}}
 <li>
@@ -83,7 +98,6 @@ Unable to load publication list.
 </script>
 
 <ul id="publist-astro"></ul>
-
 
 <script src="https://unpkg.com/mustache@latest"></script>
 <script>
