@@ -25,6 +25,7 @@ I am based between San Francisco, CA and Brisbane, Australia.
 - Systems & DBTL Engineering
 - Astrophysics & Cosmology
 - AI & Machine Learning
+- Privacy
 - Deep Tech
 - National Parks
 
@@ -47,7 +48,7 @@ San Francisco accelerators:
 
 ### Code
 
-Although a lot of code I've written recently is tied up in my new ventures, some of my astrophysics work can be found at [these respoitories](https://github.com/orgs/caterpillarproject/) or more general tinkering [over here](https://github.com/bgriffen?tab=repositories).
+Although a lot of code I've written recently is tied up in my new ventures, some of my astrophysics work can be found at [these repositories](https://github.com/orgs/caterpillarproject/) or more general tinkering [over here](https://github.com/bgriffen?tab=repositories).
 
 <script id="code-template" type="x-tmpl-mustache">
 {{#codes}}
