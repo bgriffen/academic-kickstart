@@ -27,6 +27,7 @@ I am based between San Francisco, CA and Brisbane, Australia.
 - AI & Machine Learning
 - Privacy
 - Deep Tech
+- Privacy
 - National Parks
 
 ### Experience
