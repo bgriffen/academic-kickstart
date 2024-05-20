@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Brendan."
+title: "about."
 layout: "page"
 url: "/about"
 summary: "About"
@@ -11,13 +11,15 @@ ShowPostNavLinks: false
 ShowBreadCrumbs: false
 ---
 
-I build deep tech at the intersection of biology, engineering and computer science.
+Hi, I'm Brendan. 
+
+I build platform tech at the intersection of biology, engineering and computer science.
 
 I’m currently Chief Technology Officer and co-founder at [Dynomics](https://www.dynomics.com). We're a startup focused on discovering targeted therapies to reverse heart failure using complex *in silico* and *in vitro* systems.
 
 In a past life I studied cosmology and galaxy formation at the Kavli Institute at MIT, leading the [Caterpillar Project](https://www.caterpillarproject.org/), and was a contributor to the [Illustris Project](http://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
 
-I am based between San Francisco, CA and Brisbane, Australia.
+I am based between San Francisco and Brisbane, Australia.
 
 ### Interests
 
@@ -27,7 +29,6 @@ I am based between San Francisco, CA and Brisbane, Australia.
 - AI & Machine Learning
 - Privacy
 - Deep Tech
-- Privacy
 - National Parks
 
 ### Experience
@@ -43,26 +44,8 @@ San Francisco accelerators:
 
 ### Education
 
-
 * Ph.D. (computational astrophysics), University of Queensland<span style="float:right;">2008 - 2012</span>
 * Bachelor of Science (+Hons.), University of Queensland<span style="float:right;">2003 - 2007</span>
-
-### Code
-
-Although a lot of code I've written recently is tied up in my new ventures, some of my astrophysics work can be found at [these repositories](https://github.com/orgs/caterpillarproject/) or more general tinkering [over here](https://github.com/bgriffen?tab=repositories).
-
-<script id="code-template" type="x-tmpl-mustache">
-{{#codes}}
-<li>
-    <i><a href="{{homepageUrl}}">{{name}}</a></i> &mdash; {{description}}
-</li>
-{{/codes}}
-{{^codes}}
-Unable to load of software.
-{{/codes}}
-</script>
-
-<!-- <ul id="codelist"></ul> -->
 
 ### Publications
 
