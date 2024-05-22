@@ -1,6 +1,6 @@
 ---
 author: "Brendan Griffen"
-title: "Hello World"
+title: "hello world"
 date: "2021-10-06"
 summary: Welcome to my site.
 tags: ["general"]
