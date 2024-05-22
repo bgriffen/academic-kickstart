@@ -4,29 +4,27 @@ layout: "page"
 url: "/code"
 summary: "Code"
 disableShare: true
-showtoc: true
+showtoc: false
 hidemeta: true
 comments: false
 ShowPostNavLinks: false
 ShowBreadCrumbs: false
 ---
 
-> *Per Aspera Ad Astra.*
-
 My more comprehensive Github profile can be [found here](https://github.com/bgriffen). 
 
 Although a lot of recent code is tied to new private ventures, some of my larger available work can be found at the following repositories. 
 
-I'm taking a more "make public and clean up later" approach otherwise these would never be released. Please forgive any transgressions in the code below.
+I'm taking a more "make public and clean up later" approach otherwise these would never be released.
 
-# biotech
+## biotech
 {{< projectcards topic="biotech">}}
 
-# geospatial
+## geospatial
 {{< projectcards topic="geospatial">}}
 
-# astrophysics
+## astrophysics
 {{< projectcards topic="astro">}}
 
-# hardware
+## hardware
 {{< projectcards topic="hardware">}}
