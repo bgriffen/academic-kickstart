@@ -84,6 +84,19 @@ Unable to load publication list.
 
 <ul id="publist-astro"></ul>
 
+<!-- Added code-template tag -->
+<script id="code-template" type="x-tmpl-mustache">
+{{#codes}}
+<li>
+    <a href="{{url}}">{{repo}}</a>
+    {{#description}} - {{description}}{{/description}}
+</li>
+{{/codes}}
+{{^codes}}
+No code available.
+{{/codes}}
+</script>
+
 <script src="https://unpkg.com/mustache@latest"></script>
 <script>
   var codeMap = {
