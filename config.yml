@@ -88,31 +88,31 @@ params:
       description: "All-in-one cell-based assay platform that applies ML models to single cell cytometry data and calculates yields and cost model for a given protocol (e.g. cost per unit of dopaminergic neurons or cost per unit of cultured meat). Think of it as a recipe engine for optimised cell based processes."
       url: "https://github.com/bgriffen/gigpy"
       topic: "biotech"
-      tags: ["biotech", "machine learning", "optimisation"]
+      tags: ["python", "sql", "machine learning"]
     - title: "wombat"
       image: "assets/wombat.jpg"
       description: "Wombat is a Python toolkit designed help answer geospatial related questions about Australian cities & regions. A simple to use set of functionalities enable the querying of of a large number of open-source datasets simultaneously. These datasets range from aerial imagery, building morphology, census information (e.g. demographics), points of interest, elevation, flooding, education, property sale history and transport networks. The goal of Wombat is to make it a good means to an ends, such that data products can be easily fed into other downstream geospatial analyses and visualisations."
       url: "https://wombat.grifflabs.dev"
       topic: "geospatial"
-      tags: ["geospatial", "urban science"]
+      tags: ["geospatial", "python"]
     - title: "specufestor"
       image: "assets/specufestor.jpg"
       description: "Specufestor is a Python package designed to streamline the acquisition and analysis of Australian property sale data. This tool collects and organizes historical property sales data, and utilises various property attributes including photos and geospatial datasets sourced through Wombat. Specufestor not only aggregates extensive property data but also employs predictive models to forecast property prices. It was primarily designed to find somewhere to live in the midst of a housing crisis but was subsequently expanded to be more useful."
       url: "https://github.com/bgriffen/specufestor"
       topic: "geospatial"
-      tags: ["geospatial", "machine learning", "real estate"]
+      tags: ["geospatial","python","machine learning"]
     - title: "the caterpillar project"
       image: "assets/caterpillar.jpg"
       description: "The Caterpillar Project is a large suite of dark matter only cosmological simulations of 35 Milky Way-sized galaxies. At a resolution of ${10^4 M_{\\odot}}$ per particle and 50 Myr temporal resolution, at the time represented one of the largest and highest resolution simulation suites of its kind in the world. These data were generated to help enable statistically probe the formation history and evolution of the Milky Way and its similar sized cousins."
       url: "https://github.com/caterpillarproject/"
       topic: "astro"
-      tags: ["astrophysics", "HPC", "simulation"]
+      tags: ["python", "numerical", "HPC"]
     - title: "cosmology made easy"
       image: "assets/cme.jpg"
       description: "CME is a 'no-code' Python-based Graphical User Interface (GUI) engineered to manage and execute 'zoom-in' simulations of smaller cosmological regions from larger parent volumes. This constructs Lagrangian volumes and submits subsequent suites to HPC environments, enabling careful checks and optimizations of simulation parameters over an ensemble of runs. Key functionalities include the visualization of dark matter halo catalogues and Lagrangian volumes. CME collectively supports the design and execution of 'optimal' cosmological zoom-in simulations."
       url: "https://github.com/bgriffen/cme"
       topic: "astro"
-      tags: ["cosmology",  "GUI", "HPC", "simulation"]
+      tags: ["python","qt", "HPC"]
     - title: "pypump"
       image: "assets/pypump.jpg"
       description: "There is a little public code on handling liquid handlers via serial controllers. PyPump is a Python based tool that uses PySerial to control the [Tricontinent MC6000/C3000](https://www.tricontinent.com/en-au/mc6000-syringe-pump) & [IDEX Rheodyne MX Series II](https://www.idex-hs.com/store/product-detail/mx_series_ii_2_position_6_port_ultralife_switching_valve/mxt715-000) liquid handlers. It is designed to remove the technical work of making GUIs work smoothly with liquid handler operations (e.g. Daedalus). It may only help a few number of people, but it will save them many months should they discover this humble olive branch."
@@ -130,13 +130,13 @@ params:
       description: "protocolDB is a Python package designed to streamline the management of laboratory protocols and associated data in a structured database, easily accessible for querying and analysis. It automates database connections and setups, supporting both MySQL and PostgreSQL. Utilizing an ORM, the package defines a comprehensive schema encompassing projects, runs, experiments, samples, imaging, results, and various inventory items like components, cell lines, and media. The tool simplifies data entry and retrieval, enabling researchers to manage complex datasets involving multiple experimental steps, from seeding and medium changes to dissociation and detection instances."
       url: "https://github.com/scaledbiolabs/protocoldb"
       topic: "biotech"
-      tags: ["assays", "biotech", "database", "protocols"]
+      tags: ["assays", "python", "SQL"]
     - title: "ezpubmed"
       image: "assets/ezpubmed.jpg"
       description: "ezpubmed is a Python package designed to maintain an up-to-date local datastore of the world's biomedical literature (pubmed), easily convertible into a pandas DataFrame for analysis. It automates the synchronization of PubMed's 'baseline' and 'updatefiles' datasets, which include all historical papers and current year entries. Utilizing the peewee ORM, it efficiently manages updates and metadata corrections in a SQLite database. The tool simplifies the setup process and supports advanced functionalities such as custom queries and basic NLP tasks (e.g. LLMs), making it an effective solution for researchers needing streamlined access to comprehensive PubMed data."
       url: "https://github.com/bgriffen/ezpubmed"
       topic: "biotech"
-      tags: ["biotech", "natural language processing"]
+      tags: ["python", "natural language processing"]
 
 
   profileMode:
