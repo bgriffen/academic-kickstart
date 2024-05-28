@@ -88,7 +88,7 @@ params:
       description: "All-in-one cell-based assay platform that applies ML models to single cell cytometry data and calculates yields and cost model for a given protocol (e.g. cost per unit of dopaminergic neurons or cost per unit of cultured meat). Think of it as a recipe engine for optimised cell based processes."
       url: "https://github.com/bgriffen/gigpy"
       topic: "biotech"
-      tags: ["python", "sql", "machine learning"]
+      tags: ["python", "SQL", "machine learning"]
     - title: "wombat"
       image: "assets/wombat.jpg"
       description: "Wombat is a Python toolkit designed help answer geospatial related questions about Australian cities & regions. A simple to use set of functionalities enable the querying of of a large number of open-source datasets simultaneously. These datasets range from aerial imagery, building morphology, census information (e.g. demographics), points of interest, elevation, flooding, education, property sale history and transport networks. The goal of Wombat is to make it a good means to an ends, such that data products can be easily fed into other downstream geospatial analyses and visualisations."
